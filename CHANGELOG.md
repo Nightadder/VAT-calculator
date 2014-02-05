@@ -4,4 +4,4 @@
 - can only calculate with 21 percent VAT
 
 ##0.2 
-- choose your VAT percent
+- you can choose your VAT percent
