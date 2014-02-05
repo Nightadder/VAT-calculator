@@ -6,7 +6,7 @@ int main()
 {
     float invoice_amount;
     float percent;
-    float tax;
+    float VAT;
     float total;
     float raw_percent;
     cout << "Type your invoice amount: ";
@@ -15,9 +15,9 @@ int main()
     cin >> raw_percent;
 
     percent = invoice_amount * raw_percent;
-    tax = percent / 100;
+    VAT = percent / 100;
     total = invoice_amount + tax;
-    cout << "your invoice is " << btw << endl;
+    cout << "your VAT is " << VAT << endl;
     cout << "Your total is  " << total << endl;
 
     return 0;
