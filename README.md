@@ -1,4 +1,5 @@
-tax-calculator
+VAT-calculator
 ==============
 
- calculate tax
+This program calculates your VAT
+
