@@ -19,6 +19,8 @@ int main()
     total = invoice_amount + tax;
     cout << "your VAT is " << VAT << endl;
     cout << "Your total is  " << total << endl;
-
+    string END;
+    cout << "";
+    cin >> END;
     return 0;
 }
